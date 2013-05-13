@@ -1,0 +1,10 @@
+name: PaintYourCTF
+main: me.Neatoro.PaintYourCTF.PaintYourCTF
+version: 1
+author: Neatoro
+commands:
+   ctf:
+      description: Command to create a new Arena.
+      usage: /<command> help
+      permission: ctf.admin
+      permission-message: You don't have <permission>
