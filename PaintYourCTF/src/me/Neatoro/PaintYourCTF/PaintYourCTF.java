@@ -11,7 +11,6 @@ import me.Neatoro.PaintYourCTF.Commands.CommandCreateArena;
 import me.Neatoro.PaintYourCTF.Listener.ListenerPlayerJoin;
 import me.Neatoro.PaintYourCTF.Manager.SettingsManager;
 
-import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
